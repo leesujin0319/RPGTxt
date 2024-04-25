@@ -1,0 +1,15 @@
+E:\Teamsparta\RPGText\RPGText\bin\Debug\net6.0\RPGText.exe
+E:\Teamsparta\RPGText\RPGText\bin\Debug\net6.0\RPGText.deps.json
+E:\Teamsparta\RPGText\RPGText\bin\Debug\net6.0\RPGText.runtimeconfig.json
+E:\Teamsparta\RPGText\RPGText\bin\Debug\net6.0\RPGText.dll
+E:\Teamsparta\RPGText\RPGText\bin\Debug\net6.0\RPGText.pdb
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.csproj.AssemblyReference.cache
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.AssemblyInfoInputs.cache
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.AssemblyInfo.cs
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.csproj.CoreCompileInputs.cache
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.dll
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\refint\RPGText.dll
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.pdb
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\RPGText.genruntimeconfig.cache
+E:\Teamsparta\RPGText\RPGText\obj\Debug\net6.0\ref\RPGText.dll
